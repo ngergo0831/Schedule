@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "459106483680",
+    "firebase_url": "https://menetrend-1c072.firebaseio.com",
+    "project_id": "menetrend-1c072",
+    "storage_bucket": "menetrend-1c072.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459106483680:android:bcd04c59091a5e8f",
+        "android_client_info": {
+          "package_name": "com.example.ngergo.schedule"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "459106483680-a7o63822b98inuob53mtu17tn1eb7fte.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ngergo.schedule",
+            "certificate_hash": "3fdc532818c8fa2af8ad0007062eca7195bbfe40"
+          }
+        },
+        {
+          "client_id": "459106483680-0uu9qqfm7fgilfhmbelrd80efm4g77bv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeESKtM4ypUkT7cA3eduwFPI_JmhNpelY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "459106483680-0uu9qqfm7fgilfhmbelrd80efm4g77bv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
